@@ -1,6 +1,5 @@
 # Hi there, I'm David Esteban Imbajoa Ruiz 👋
 
-![Profile views](https://gpvc.arturio.dev/deivy311) 
 [![GitHub followers](https://img.shields.io/github/followers/deivy311?label=Follow&style=social)](https://github.com/deivy311)
 
 ## About Me
@@ -75,11 +74,10 @@ I am a Senior AI & Robotics Software Engineer at ADASI in Abu Dhabi. I hold a Ma
 - **Email:** [davidestebanimbajoa@gmail.com](mailto:davidestebanimbajoa@gmail.com)
 
 ## What I'm Up To
-- 🔭 I’m currently working on swarming algorithms for coordinated behavior based on reinforcement learning techniques.
-- 🌱 I’m currently learning advanced robotics control systems and their integration with AI.
+- 🔭 I’m working on swarming algorithms for coordinated behaviour based on reinforcement learning techniques.
+- 🌱 I’m learning advanced robotics control systems and their integration with AI.
 - 👯 I’m looking to collaborate on innovative AI and robotics projects.
 - 🤔 I’m looking for help with integrating UAV swarming techniques into existing robotics platforms.
 - 💬 Ask me about robotics, AI, reinforcement learning, and UAVs.
 - 📫 How to reach me: [davidestebanimbajoa@gmail.com](mailto:davidestebanimbajoa@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a strong passion for learning and experimenting with new robotics technologies and AI methods.
+- ⚡ Fun fact: I am passionate about learning and experimenting with new robotics technologies and AI methods.
