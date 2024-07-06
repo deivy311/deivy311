@@ -1,4 +1,4 @@
-# Hi there, I'm David Esteban Imbajoa Ruiz 👋
+# Hi there, I'm Esteban 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/deivy311?label=Follow&style=social)](https://github.com/deivy311)
 
